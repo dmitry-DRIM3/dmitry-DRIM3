@@ -57,6 +57,14 @@
 
 <br/>  
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/dmitry-DRIM3/dmitry-DRIM3/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 ## Recent Blog Posts  
   
@@ -76,4 +84,5 @@
 
 
 <br />
+
 
