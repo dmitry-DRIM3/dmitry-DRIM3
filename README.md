@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
+
 
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
@@ -37,7 +37,11 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 <br/>  
 
 
@@ -49,6 +53,7 @@
 </div>  
   
 
+
 <br/>  
 
 
@@ -57,13 +62,8 @@
 
 <br/>  
 
-###
 
-<br clear="both">
 
-<img src="https://github.com/dmitry-DRIM3/dmitry-DRIM3/blob/main/snake.yml" alt="Snake animation" />
-
-###
 
 
 ## Recent Blog Posts  
