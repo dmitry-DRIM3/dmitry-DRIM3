@@ -1,7 +1,9 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+
+### <div align="center">
+  <img height="150" src="https://private-user-images.githubusercontent.com/74038190/240885606-f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYyNDk0NzEsIm5iZiI6MTcyNjI0OTE3MSwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODU2MDYtZjYwNjQ2NmYtNGNjOS00Y2IxLThhZDYtODBhN2VlZWE5ZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTEzVDE3MzkzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlYzE1N2VjOWFjOTk2NjM5ODVlOTk4YTFkY2M1NGZmOGU1ODhiOTNmOTM3NmU0MTBiMjQ2YmJkZTk0OWM4NjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gKIPR7SMVjsAfkk0ZL6wImTNvxxxv5OdPsQ7ll3R3Ek"  />
+</div>
+
+
 
 ### <div align="center">My name is Dmitry, and I have been developing in Unity since 2019.</div>  
   
@@ -16,6 +18,7 @@
   
 
 <br/>  
+
 
 
 ## My Skill Set  
@@ -47,9 +50,15 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/dmitry-DRIM3" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+  <a href="dmitry.efremov.20.09@mail.ru" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/Drmi3s" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://discord.com/users/dmitryefremov" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>  
   
 
@@ -61,8 +70,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dmitry-DRIM3&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
 
 
 
