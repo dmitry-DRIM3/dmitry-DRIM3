@@ -7,7 +7,7 @@
 ### <div align="center">My name is Dmitry, and I have been developing in Unity since 2019.</div>  
   
 
-- 🔭Commercial experience in Unity development for over 3 years.  
+- 🔭Commercial experience in Unity development for over 4 years.  
   
 
 - 🌱 Most often developed casual projects for Yandex Games and Google Play platforms.  
